@@ -1,2 +1,7 @@
 Hi, this is the second file.. now we will try to push these files to a remote repository
-Learning git commands is the aim of this. 
+Learning git commands is the aim of this.
+
+
+Changes in branch devbranch3 to practice merging of branches. 
+
+ 
